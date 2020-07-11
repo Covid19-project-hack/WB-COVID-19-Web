@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "name": "Registration for returning to Odisha from other states",
+            "link": "https://covid19regd.odisha.gov.in/"
+        },
+        {
+            "name": "Registration for returning to Odisha from other states (Modify)",
+            "link": "https://covid19regd.odisha.gov.in/migrant-registrationEdit.aspx"
+        },
+        {
+            "name": "Registration for returning to Odisha from other states (Status)",
+            "link": "https://covid19regd.odisha.gov.in/Migrant-Know-RegNo.aspx"
+        },
+        {
+            "name": "Apply ePass to travel out of Odisha",
+            "link": "https://covid19regd.odisha.gov.in/epass/migrantregistrationoutside.aspx"
+        },
+        {
+            "name": "Vehicle registration for returning to Odisha from other states",
+            "link": "https://covid19regd.odisha.gov.in/travel.aspx"
+        },
+        {
+            "name": "Registration of people returning from abroad",
+            "link": "https://covid19portal.odisha.gov.in/international-registration"
+        }
+        
+    ]
+}
+

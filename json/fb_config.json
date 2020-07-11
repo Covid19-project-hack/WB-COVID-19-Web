@@ -1,0 +1,9 @@
+{
+    "apiKey": "AIzaSyBkBYkEHzG8jyr08ScJ6eEuSVMX6jC-FRg",
+    "authDomain": "hp-covid-19-project.firebaseapp.com",
+    "databaseURL": "https://hp-covid-19-project.firebaseio.com",
+    "projectId": "hp-covid-19-project",
+    "storageBucket": "hp-covid-19-project.appspot.com",
+    "messagingSenderId": "329703195062",
+    "appId": "1:329703195062:web:1048a07858c9f44ce3c117"
+  }

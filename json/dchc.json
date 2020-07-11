@@ -1,0 +1,39 @@
+{
+    "dchc": [
+        {
+            "sno": "1",
+            "district": "Puri",
+            "name": "Covid Health Centre, Puri- IDH,\r\nPuri"
+        },
+        {
+            "sno": "2",
+            "district": "Boudh",
+            "name": "Covid Health Centre- Boudh, Old\r\nJail Campus, Boudh"
+        },
+        {
+            "sno": "3",
+            "district": "Deogarh",
+            "name": "Covid Health Centre, Deogarh-Govt Polytechnic College, Deogarh"
+        },
+        {
+            "sno": "4",
+            "district": "Rayagada",
+            "name": "Covid Health Centre, Rayagada- ESI\r\nHospital, Rayagada"
+        },
+        {
+            "sno": "5",
+            "district": "Puri",
+            "name": "Covid Health Centre, Puri-\r\nGopabandhu Ayurvedic Medical College, Puri"
+        },
+        {
+            "sno": "6",
+            "district": "Sonepur",
+            "name": "Covid Health Centre, Sonepur-\r\nGovernment ITI , Sonepur"
+        },
+        {
+            "sno": "7",
+            "district": "Sundargarh",
+            "name": "Covid Health Centre, Sundergarh- NTPC MCH, Sundergaarh"
+        }
+    ]
+}

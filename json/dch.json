@@ -1,0 +1,134 @@
+{
+    "dch": [
+        {
+            "sno": "1",
+            "district": "Angul",
+            "name": "Covid Hospital, Anugul- Mahanadi Medical College, Talcher"
+        },
+        {
+            "sno": "2",
+            "district": "Bolangir",
+            "name": "Covid Hospital, Bolangir -KISS\r\nCampus"
+        },
+        {
+            "sno": "3",
+            "district": "Balasore",
+            "name": "Covid Hospital, Balasore- Jyoti\r\nHospital"
+        },
+        {
+            "sno": "4",
+            "district": "Bargarh",
+            "name": "Covid Hospital, Bargarh- MCH\r\nBuilding, DHH Bargarh"
+        },
+        {
+            "sno": "5",
+            "district": "Bhadrak",
+            "name": "Covid Hospital, Bhadrak- Salandi\r\nHospital"
+        },
+        {
+            "sno": "6",
+            "district": "Cuttack",
+            "name": "Covid Hospital, Cuttack- Ashwini\r\nHospital"
+        },
+        {
+            "sno": "7",
+            "district": "Dhenkanal",
+            "name": "Covid Hospital- Dhenkanal, Old\r\nDHH, Dhenkanal"
+        },
+        {
+            "sno": "8",
+            "district": "Ganjam",
+            "name": "Covid Hospital, Ganjam- TATA\r\nMedica"
+        },
+        {
+            "sno": "9",
+            "district": "Gajapati",
+            "name": "Covid Hospital, Gajapati, Centurion University Health Centre"
+        },
+        {
+            "sno": "10",
+            "district": "Jajapur",
+            "name": "Covid Hospital,  Jajapur- Tata\r\nHospital, Duburi"
+        },
+        {
+            "sno": "11",
+            "district": "Jagatsinghpur",
+            "name": "Covid Hospital, Jagatsinghpur-Biju\r\nJatri Nivas"
+        },
+        {
+            "sno": "12",
+            "district": "Kendrapara",
+            "name": "Covid Hospital, Kendrapara - Government Polytechnic Hostel"
+        },
+        {
+            "sno": "13",
+            "district": "Koraput",
+            "name": "Covid Hospital,Koraput- SDH,\r\nJeypore"
+        },
+        {
+            "sno": "14",
+            "district": "Keonjhar",
+            "name": "Covid Hospital, , Keonjhar- Tata\r\nHospital, JODA"
+        },
+        {
+            "sno": "15",
+            "district": "Kandhamal",
+            "name": "Covid Hospital,  Kandhamal- GNM\r\nCentre,  Kandhamal"
+        },
+        {
+            "sno": "16",
+            "district": "Kalahandi",
+            "name": "Covid Hospital, Kalahandi- Govt\r\nEngineering College, Kalahandi"
+        },
+        {
+            "sno": "17",
+            "district": "Khurda",
+            "name": "Covid Hospital, Khurda- Kalinga Institute of Medical Sciences,\r\nBhubaneswar"
+        },
+        {
+            "sno": "18",
+            "district": "Khurda",
+            "name": "Covid Hospital, Khurda-SUM\r\nHospital, IMS, Bhubaneswar"
+        },
+        {
+            "sno": "19",
+            "district": "Jharsuguda",
+            "name": "Covid Hospital, Jharsuguda- Old\r\nDHH Building"
+        },
+        {
+            "sno": "20",
+            "district": "Malkangiri",
+            "name": "Covid Hospital, Malkangiri, Old\r\nDHH, Malkangiri"
+        },
+        {
+            "sno": "21",
+            "district": "Mayurbhanj",
+            "name": "Covid Hospital, Mayurbhanj-Kiss\r\nCampus"
+        },
+        {
+            "sno": "22",
+            "district": "Nayagarh",
+            "name": "Covid hospital, Nayagarh - Chandpur TB Hospital, Nayagarh"
+        },
+        {
+            "sno": "23",
+            "district": "Centre",
+            "name": "Covid Health Centre, Nabrangpur- BEd College Nabrangpur"
+        },
+        {
+            "sno": "24",
+            "district": "Nuapada",
+            "name": "Covid Hospital,Nuapada"
+        },
+        {
+            "sno": "25",
+            "district": "Sambalpur",
+            "name": "Covid Hospital- DHH Sambalpur"
+        },
+        {
+            "sno": "26",
+            "district": "Sundargarh",
+            "name": "Covid hospital, Sundargarh- Hitech Medical College & Hospital,\r\nRourkela,"
+        }
+    ]
+}

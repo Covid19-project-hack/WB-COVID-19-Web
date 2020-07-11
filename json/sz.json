@@ -1,0 +1,294 @@
+{
+    "data": [
+        {
+            "hotspot": "Singan",
+            "district": "Una",
+            "sno": "1"
+        },
+        {
+            "hotspot": "Gondpur Jai Chand",
+            "district": "Una",
+            "sno": "2"
+        },
+        {
+            "hotspot": "Behra ward no 6 &3",
+            "district": "Una",
+            "sno": "3"
+        },
+        {
+            "hotspot": "Pratap Nagar Amb",
+            "district": "Una",
+            "sno": "4"
+        },
+        {
+            "hotspot": "Friends colony Una",
+            "district": "Una",
+            "sno": "5"
+        },
+        {
+            "hotspot": "Deoli",
+            "district": "Una",
+            "sno": "6"
+        },
+        {
+            "hotspot": "Raypur Marwari",
+            "district": "Una",
+            "sno": "7"
+        },
+        {
+            "hotspot": "Basdehra ward no 8",
+            "district": "Una",
+            "sno": "8"
+        },
+        {
+            "hotspot": "Ward no 3 Takka",
+            "district": "Una",
+            "sno": "9"
+        },
+        {
+            "hotspot": "Heeran",
+            "district": "Una",
+            "sno": "10"
+        },
+        {
+            "hotspot": "Gondpur Banehra Nichla",
+            "district": "Una",
+            "sno": "11"
+        },
+        {
+            "hotspot": "w. no 2 Fathepur ( Bhadarkali)",
+            "district": "Una",
+            "sno": "12"
+        },
+        {
+            "hotspot": "Kathoar kalan ( ward no 6)",
+            "district": "Una",
+            "sno": "13"
+        },
+        {
+            "hotspot": "Dadhwara",
+            "district": "Una",
+            "sno": "14"
+        },
+        {
+            "hotspot": "Basdehra ward no .6 (1/4 Part)",
+            "district": "Una",
+            "sno": "15"
+        },
+        {
+            "hotspot": "Adarsh Nagar",
+            "district": "Una",
+            "sno": "16"
+        },
+        {
+            "hotspot": "Guru Vihar Kunja Matralion Paonta Sahibh",
+            "district": "Sirmour",
+            "sno": "17"
+        },
+        {
+            "hotspot": "Labour Colony Valley Iron Steel co, Dhaula Kunyan",
+            "district": "Sirmour",
+            "sno": "18"
+        },
+        {
+            "hotspot": "vill. Kharara G.P BanahDhini Pachhad",
+            "district": "Sirmour",
+            "sno": "19"
+        },
+        {
+            "hotspot": "GP Hathol (vill SAI)",
+            "district": "Hamirpur",
+            "sno": "20"
+        },
+        {
+            "hotspot": "GP (Vill SUKRIAH UPRLI)",
+            "district": "Hamirpur",
+            "sno": "21"
+        },
+        {
+            "hotspot": "GP BIR BAGEHRA ( VILL PUAR)",
+            "district": "Hamirpur",
+            "sno": "22"
+        },
+        {
+            "hotspot": "GP KHANAULI",
+            "district": "Hamirpur",
+            "sno": "23"
+        },
+        {
+            "hotspot": "GP SOHARI ( VILL MANGNOTI)",
+            "district": "Hamirpur",
+            "sno": "24"
+        },
+        {
+            "hotspot": "GP BIR BAGHERA (VILL BIR)",
+            "district": "Hamirpur",
+            "sno": "25"
+        },
+        {
+            "hotspot": "GP Dhabriana",
+            "district": "Hamirpur",
+            "sno": "26"
+        },
+        {
+            "hotspot": "GP Bari",
+            "district": "Hamirpur",
+            "sno": "27"
+        },
+        {
+            "hotspot": "GP Sikander",
+            "district": "Hamirpur",
+            "sno": "28"
+        },
+        {
+            "hotspot": "GP Godi",
+            "district": "Hamirpur",
+            "sno": "29"
+        },
+        {
+            "hotspot": "Gp Kulehra",
+            "district": "Hamirpur",
+            "sno": "30"
+        },
+        {
+            "hotspot": "GP Jandroo",
+            "district": "Hamirpur",
+            "sno": "31"
+        },
+        {
+            "hotspot": "GP Darvyar Vil Drobari",
+            "district": "Hamirpur",
+            "sno": "32"
+        },
+        {
+            "hotspot": "GP Lagmanwin",
+            "district": "Hamirpur",
+            "sno": "33"
+        },
+        {
+            "hotspot": "GP Nara",
+            "district": "Hamirpur",
+            "sno": "34"
+        },
+        {
+            "hotspot": "GP UHAL",
+            "district": "Hamirpur",
+            "sno": "35"
+        },
+        {
+            "hotspot": "Bharmour",
+            "district": "Chamba",
+            "sno": "36"
+        },
+        {
+            "hotspot": "Ward no2, Bilaspur",
+            "district": "Bilaspur",
+            "sno": "37"
+        },
+        {
+            "hotspot": "Ward no 7 & 8, Bilaspur",
+            "district": "Bilaspur",
+            "sno": "38"
+        },
+        {
+            "hotspot": "kothi Gehari",
+            "district": "Mandi",
+            "sno": "39"
+        },
+        {
+            "hotspot": "Khunla Jhamehat",
+            "district": "Mandi",
+            "sno": "40"
+        },
+        {
+            "hotspot": "Machkehar",
+            "district": "Mandi",
+            "sno": "41"
+        },
+        {
+            "hotspot": "Bandu",
+            "district": "Kangra",
+            "sno": "42"
+        },
+        {
+            "hotspot": "barohal",
+            "district": "Kangra",
+            "sno": "43"
+        },
+        {
+            "hotspot": "Bhonta Rakh",
+            "district": "Kangra",
+            "sno": "44"
+        },
+        {
+            "hotspot": "Jiya (Diala)",
+            "district": "Kangra",
+            "sno": "45"
+        },
+        {
+            "hotspot": "Lower Dadh",
+            "district": "Kangra",
+            "sno": "46"
+        },
+        {
+            "hotspot": "Khilroo",
+            "district": "Kangra",
+            "sno": "47"
+        },
+        {
+            "hotspot": "kuther",
+            "district": "Kangra",
+            "sno": "48"
+        },
+        {
+            "hotspot": "Gulerwala",
+            "district": "Solan",
+            "sno": "49"
+        },
+        {
+            "hotspot": "Khundidhar",
+            "district": "Solan",
+            "sno": "50"
+        },
+        {
+            "hotspot": "Chambaghat",
+            "district": "Solan",
+            "sno": "51"
+        },
+        {
+            "hotspot": "Gullerwal /Knaaru",
+            "district": "Solan",
+            "sno": "52"
+        },
+        {
+            "hotspot": "Beri k Ser",
+            "district": "Solan",
+            "sno": "53"
+        },
+        {
+            "hotspot": "RssbSolan",
+            "district": "Solan",
+            "sno": "54"
+        },
+        {
+            "hotspot": "Patseo (GP Darcha)1",
+            "district": "Lahul Spiti",
+            "sno": "55"
+        },
+        {
+            "hotspot": "Bhaba Nagar",
+            "district": "Kinnaur",
+            "sno": "56"
+        },
+        {
+            "hotspot": "17 Battalion Jangi",
+            "district": "Kinnaur",
+            "sno": "57"
+        },
+        {
+            "hotspot": "ITBP Reckongpeo",
+            "district": "Kinnaur",
+            "sno": "58"
+        }
+    ]
+}
