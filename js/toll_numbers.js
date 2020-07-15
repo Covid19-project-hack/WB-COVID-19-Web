@@ -44,7 +44,7 @@ $(document).ready(function(){
   listgrp.innerHTML+=
   `<div class="list-group-item list-group-item-action flex-column align-items-start " style="padding-bottom: 20px;">
   <div class="d-flex w-100 justify-content-between">
-    <h5><b>${element.district}</b></h5>
+    <h5><b>${element.name}</b></h5>
   </div>
   <br>
   <p class="mb-1"><i class="fa fa-phone-alt" style="margin-right: 5px;"> </i> <span class="text-muted">Phone Number : </span>  ${element.phone_number}</p>

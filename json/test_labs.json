@@ -2,10 +2,15 @@
     "data": [
         {
             "sno": "1",
-            "name": "Sonam Nurboo Memorial Hospital, Leh",
+            "name": " Jawaharlal Nehru Institute of Med Sciences, Imphal East, Manipur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " Regional Institute of Medical Sciences, Imphal ",
             "type": "Government",
             "test_type": "RT-PCR"
         }
-        
     ]
 }

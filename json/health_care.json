@@ -2,58 +2,13 @@
     "dch": [
         {
             "sno": "1",
-            "district": "Bilaspur",
-            "hospital": "SLBSGMC, Ner Chowk"
+            "district": "Reginal Institute of Medical Science",
+            "hospital": "40 beds"
         },
         {
             "sno": "2",
-            "district": "Chamba",
-            "hospital": "ZH Dharamshala"
-        },
-        {
-            "sno": "3",
-            "district": "Hamirpur",
-            "hospital": "SLBSGMC , Ner Chowk"
-        },
-        {
-            "sno": "4",
-            "district": "Kangra",
-            "hospital": "ZH Dhararnshala"
-        },
-        {
-            "sno": "5",
-            "district": "Kinnaur",
-            "hospital": "DDUH Shimla"
-        },
-        {
-            "sno": "6",
-            "district": "Kullu",
-            "hospital": "SLBSGMC NerChowk"
-        },
-        {
-            "sno": "7",
-            "district": "Mandi",
-            "hospital": "SLBSGMC  Ner Chowk"
-        },
-        {
-            "sno": "8",
-            "district": "Shimla",
-            "hospital": "DDUH Shimla"
-        },
-        {
-            "sno": "9",
-            "district": "Sirmaur",
-            "hospital": "MMMCH Kumarhatti"
-        },
-        {
-            "sno": "10",
-            "district": "Solan",
-            "hospital": "MMMCH Kumarhatti "
-        },
-        {
-            "sno": "11",
-            "district": "Una",
-            "hospital": "ZH Dharamshala"
+            "district": "Jawaharlal Nehru Institute of Medical Sciences",
+            "hospital": "40beds"
         }
     ],
     "dchc": [
@@ -116,118 +71,63 @@
     "dccc": [
         {
             "sno": "1",
-            "district": "Bilaspur",
-            "hospital": "Shiva Engineering College (Boys Hostel) Chandpur"
+            "district": "District Hospital, Churachandpur",
+            "hospital": "10 beds"
         },
         {
             "sno": "2",
-            "district": "Bilaspur",
-            "hospital": "Matri Anchal Sadan,Shri Naina Deviji"
+            "district": "District Hospital, Thoubal",
+            "hospital": "6 beds"
         },
         {
             "sno": "3",
-            "district": "Chamba",
-            "hospital": "District Ayurvedic Hospital, Batu, Chamba"
+            "district": "District Hospital, Bishnupur",
+            "hospital": "5 beds"
         },
         {
             "sno": "4",
-            "district": "Chamba",
-            "hospital": "Tribal Bhawan, Balu, Chamba"
+            "district": "District Hospital, Chendel",
+            "hospital": "10 beds"
         },
         {
             "sno": "5",
-            "district": "Hamirpur",
-            "hospital": "Sai Marriage Palace, VPO Dugha, Near Bye Pass Hamirpur"
+            "district": "District Hospital, Senapati",
+            "hospital": "15 beds"
         },
         {
             "sno": "6",
-            "district": "Kangra",
-            "hospital": "Aggarwal Trust Dharamshala Jawalamukhi."
+            "district": "District Hospital, Tamenglong",
+            "hospital": "10 beds"
         },
         {
             "sno": "7",
-            "district": "Kangra",
-            "hospital": "Panchayti Raj Training Institute, Baijnath"
+            "district": "District Hospital, Ukhrul",
+            "hospital": "16 beds"
         },
         {
             "sno": "8",
-            "district": "Kangra",
-            "hospital": "Water Sports Complex, Pongdam"
+            "district": "SHD, Moreh",
+            "hospital": "4 beds"
         },
         {
             "sno": "9",
-            "district": "Kinnaur",
-            "hospital": "Sarai Bhawan, Recong Peo"
+            "district": "SHD, Jribam",
+            "hospital": "10 beds"
         },
         {
             "sno": "10",
-            "district": "Kullu",
-            "hospital": "District Ayurvedic Hospital, Kullu"
+            "district": "Community Health Centre, Mao",
+            "hospital": "2 beds"
         },
         {
             "sno": "11",
-            "district": "Kullu",
-            "hospital": "Gurudawara, Akhara Bazar, Kullu"
+            "district": "Primary Health Centre, Noney",
+            "hospital": "2 beds"
         },
         {
             "sno": "12",
-            "district": "Mandi",
-            "hospital": "Abhilashi Ayurvedic College, Chailchowk"
-        },
-        {
-            "sno": "13",
-            "district": "Mandi",
-            "hospital": "JPH Training Centre, Chhipnu"
-        },
-        {
-            "sno": "14",
-            "district": "Shimla",
-            "hospital": "New Wing CH Rohroo"
-        },
-        {
-            "sno": "15",
-            "district": "Shimla",
-            "hospital": "State Institute of Educational Management,  Shamlaghat"
-        },
-        {
-            "sno": "16",
-            "district": "Shimla",
-            "hospital": "PRTI Mashobra"
-        },
-        {
-            "sno": "17",
-            "district": "Shimla",
-            "hospital": "State Agriculture Management & Extension Training Institute, Mashobra"
-        },
-        {
-            "sno": "18",
-            "district": "Sirmaur",
-            "hospital": "Yatri Niwas ,Trilokpur"
-        },
-        {
-            "sno": "19",
-            "district": "Solan",
-            "hospital": "Labour Hostel Ramshehar Road Nalagarh"
-        },
-        {
-            "sno": "20",
-            "district": "Solan",
-            "hospital": "Farmer's Hostel Dr.YSP UHF Nauni"
-        },
-        {
-            "sno": "21",
-            "district": "Solan",
-            "hospital": "Old Private School, Viii Devnagar, Bathalag, Arki"
-        },
-        {
-            "sno": "22",
-            "district": "Una",
-            "hospital": "Skill Development Centre, Palkawah"
-        },
-        {
-            "sno": "23",
-            "district": "Una",
-            "hospital": "Multipurpose Bhawan, Khad"
+            "district": "Community Health Centre, Kakching",
+            "hospital": "8 beds"
         }
     ]
 }

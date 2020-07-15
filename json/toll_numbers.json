@@ -1,64 +1,16 @@
 {
     "data": [
         {
-            "district": "UT Ladakh(Control Room)",
-            "phone_number": "01982-258960",
-            "sno": "1"
+            "name": "24×7 COVID Control Room toll free No.",
+            "phone_number": "1800-345-3818"
         },
         {
-            "district": "DC Office Leh(Control Room)",
-            "phone_number": "01982-255530",
-            "sno": "2"
+            "name": "Shri Arthur Chipang (Nodal Officer for handling COVID-19 Public Grievances)",
+            "phone_number": "1800-345-3818"
         },
         {
-            "district": "DC Office Kargil(Control Room)",
-            "phone_number": "01985-2323363",
-            "sno": "3"
-        },
-        {
-            "district": "Grievance",
-            "phone_number": "01982-258963",
-            "sno": "4"
-        },
-        {
-            "district": "Watsapp No.",
-            "phone_number": "8803699624",
-            "sno": "5"
-        },
-        {
-            "district": "Email ID",
-            "phone_number": "01905-243945",
-            "sno": "6"
-        },
-        {
-            "district": "Solan",
-            "phone_number": "01792-223638",
-            "sno": "7"
-        },
-        {
-            "district": "Una",
-            "phone_number": "utladakhcovid19@gmail.com",
-            "sno": "8"
-        },
-        {
-            "district": "PHQ Police Control Room",
-            "phone_number": "01982-260887",
-            "sno": "9"
-        },
-        {
-            "district": "Police Control Room Leh",
-            "phone_number": "019282-258880",
-            "sno": "10"
-        },
-        {
-            "district": "Police Control Room Kargil",
-            "phone_number": "01985-232275",
-            "sno": "11"
-        },
-        {
-            "district": "Ms.Kaneez Fatima, KAS",
-            "phone_number": "9818593014",
-            "sno": "12"
+            "name": "24×7 COVID Control Room Email",
+            "phone_number": "mn.ccr2020@gmail.com"
         }
     ]
 }
