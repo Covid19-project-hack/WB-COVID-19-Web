@@ -3,7 +3,7 @@ $(document).ready(function () {
     type: "GET",
     url: "https://api.covid19india.org/state_district_wise.json",
     success: function (returnedData) {
-      const district_data = returnedData["Gujarat"].districtData;
+      const district_data = returnedData["Sikkim"].districtData;
       populateData(district_data);
     },
   });
