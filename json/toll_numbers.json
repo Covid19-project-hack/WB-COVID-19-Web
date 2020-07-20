@@ -1,16 +1,19 @@
 {
     "data": [
         {
-            "name": "24×7 COVID Control Room toll free No.",
-            "phone_number": "1800-345-3818"
+            "sno": "1",
+            "name": "STATE CONTROL ROOM",
+            "phone_number": "1070"
         },
         {
-            "name": "Shri Arthur Chipang (Nodal Officer for handling COVID-19 Public Grievances)",
-            "phone_number": "1800-345-3818"
+            "sno": "2",
+            "name": "24/7 Helpline",
+            "phone_number": "1800-313-444-222,033-2341-2600"
         },
         {
-            "name": "24×7 COVID Control Room Email",
-            "phone_number": "mn.ccr2020@gmail.com"
+            "sno": "3",
+            "name": "Control Room",
+            "phone_number": "033-2357-1075,033-2357-1083,033-2357-3636"
         }
     ]
 }

@@ -1,29 +1,26 @@
 {
     "data": [
         {
-            "name": "Registration for returning to Odisha from other states",
-            "link": "https://covid19regd.odisha.gov.in/"
+            "name": "Inter District Travel Pass",
+            "link": "http://districtpass.covidwbgov.in/districtpass/"
         },
         {
-            "name": "Registration for returning to Odisha from other states (Modify)",
-            "link": "https://covid19regd.odisha.gov.in/migrant-registrationEdit.aspx"
+            "name": "Exit Pass (One way pass to go outside West Bengal)",
+            "link": "http://covidwbgov.in/exit/aspx/Signin.aspx"
         },
         {
-            "name": "Registration for returning to Odisha from other states (Status)",
-            "link": "https://covid19regd.odisha.gov.in/Migrant-Know-RegNo.aspx"
+            "name": "Entry Pass (One way pass for entering West Bengal)",
+            "link": "http://covidwbgov.in/entry/aspx/signin.aspx"
         },
         {
-            "name": "Apply ePass to travel out of Odisha",
-            "link": "https://covid19regd.odisha.gov.in/epass/migrantregistrationoutside.aspx"
+            "name": "Group Entry Pass (One way Entry Pass for Group of People entering West Bengal)",
+            "link": "http://covidwbgov.co.in/GROUPENTRY/aspx/signin.aspx"
         },
         {
-            "name": "Vehicle registration for returning to Odisha from other states",
-            "link": "https://covid19regd.odisha.gov.in/travel.aspx"
-        },
-        {
-            "name": "Registration of people returning from abroad",
-            "link": "https://covid19portal.odisha.gov.in/international-registration"
+            "name": " Group Exit Pass (One way Exit Pass for Group of People leaving West Bengal)",
+            "link": "http://covidwbgov.co.in/groupexit/aspx/signin.aspx"
         }
+        
         
     ]
 }

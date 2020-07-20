@@ -2,15 +2,267 @@
     "data": [
         {
             "sno": "1",
-            "name": " Virus Research and Diagnostic Laboratory, STNM Hospital, Gangtok ",
+            "name": "ICMR National Institute of Cholera Enteric Diseases, Kolkata",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "2",
-            "name": " Intermediate Reference Laboratory, STNM Hospital, Gangtok",
+            "name": " Institute of Post Graduate Medical Education Research, Kolkata",
             "type": "Government",
-            "test_type": "True NAD"
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Midnapore Medical College, Midnapore North Bengal Medical College, Darjeeling School of Tropical Medicine, Kolkata",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Malda Medical College Hospital, Malda Command Hospital, Kolkata",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Chittaranjan National Cancer Institute, Kolkata ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " R G Kar Medical College Hospital, Kolkata",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " Murshidabad Medical College, Behrampore, Murshidabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Nil Ratan Sircar Medical College, Kolkata Bankura Medical College, Bankura",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " Suri Sadar Hospital, Birbhum Medical College, Kolkata",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " College of Medicine and JNM Hospital, Kalyani, Nadia ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " Calcutta National Medical College and Hospital, Kolkata",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "12",
+            "name": " Raiganj Govt Medical College and Hospital, Raiganj",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "13",
+            "name": " Falakata SSH Hospital, District Alipurduar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "14",
+            "name": " Jhargram District Hospital, Jhargram District ",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "15",
+            "name": " Rampurhat Govt Medical College and Hospital, Rampurhat, Birbhum",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "16",
+            "name": " Diamond Harbour Govt Medical College and Hospital, Diamond Harbour",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "17",
+            "name": " Asansol District Hospital, Asansol",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "18",
+            "name": " Balurghat District Hospital, Dakshin Dinajpur",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "19",
+            "name": " Jangipur Sub Divisional Hospital, Murshidabad",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "20",
+            "name": " Uluberia Sub Divisional Hospital, Howrah",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "21",
+            "name": " Serampore Walsh Sub divisional Hospital, Hugli",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "22",
+            "name": " Biswa Bangla Krirangan SARI COVID Hospital, Jalpaiguri",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "23",
+            "name": " Chanchal Sub divisional Hospital SDH , Malda",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "24",
+            "name": " Purulia Government Medical College and Hospital, Purulia",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "25",
+            "name": " M R Bangur District Hospital, Kolkata",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "26",
+            "name": " Alipurduar District Hospital, Alipurduar ",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "27",
+            "name": " Burdwan Medical College, Burdwan",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "28",
+            "name": " College of Medicine and Sagore Dutta Hospital, Kolkata",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "29",
+            "name": "Cooch Behar Government Medical College, Cooch Behar",
+            "type": "Government",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "30",
+            "name": "Apollo Gleneagles Hospitals, Canal Circular Road, Kolkata",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "31",
+            "name": " Tata Medical Center, Rajarhat, Kolkata",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "32",
+            "name": " Suraksha Diagnostic Pvt Ltd Dept of Lab Services , , Premises No , DG Block Newtown , Action Area D, Newtown, Kolkata",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "33",
+            "name": " Dr Lal Pathlabs Ltd Kolkata Reference lab, Plot No CB , Premises No , Street No , Action Area C, Newtown, Kolkata ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "34",
+            "name": " Dept of Lab Services, Medica Superspeciality Hospital, , Mukundpur, E M Bypass, Kolkata",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "35",
+            "name": " Remedy Life Care, Plot , Nani Gopal Roy Chowdhury Avenue, Entally, Padmapukur On Main Road, Kolkata",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "36",
+            "name": " Shri Ramkrishna Institute of Medical Sciences Sanaka Hospitals, Malandighi, P S Kanksha, Durgapur",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "37",
+            "name": " Laboratory Services, Peerless Hospitex Hospital Research Centre, , Panchasayar, Kolkata",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "38",
+            "name": " Desun Reference Lab A Unit of Desun Healthcare and Research Institute Limited Department of Laboratory Services , S , Kasba Industrial Estate, Phase III, Kolkata ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "39",
+            "name": " Anandaloke Sonoscan Centre Pvt Ltd , Hill Cart Road, Near Mahananda Bridge, Siliguri",
+            "type": "Private",
+            "test_type": "True NAT"
+        },
+        {
+            "sno": "40",
+            "name": " AMRI Hospitals, Dept of Lab Medicine, JC , Sector III, Salt Lake City, Kolkata ",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "41",
+            "name": " The Calcutta Medical Research Institute Dept of Pathology , Diamond Harbour Raod, Kolkata",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "42",
+            "name": " Dept of Lab Medicine, AMRI Hospital, A, Gariahat Road, Kolkata",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "43",
+            "name": " SRL Limited, P S Srijan Tech Park, DN , Saltlake Sector V, Kolkata",
+            "type": "Private",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "44",
+            "name": " Woodlands Multispeciality Hospital Limited Department Of Pathology , Alipore Road, Kolkata",
+            "type": "Private",
+            "test_type": "CB NAAT"
         }
     ]
 }
